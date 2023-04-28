@@ -1,10 +1,6 @@
 # LoanChain
-[![Contributors](https://img.shields.io/github/contributors/<vipulsingh21>/<Loanchain>)](https://github.com/<Omkar9027>/<LoanChain>/graphs/contributors)
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <h1 align="center">LoanChain</h1>
-  <p align="center">
   Connecting people with their money.
    <br />
   </p>
