@@ -43,8 +43,6 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-This project was developed for the RevaHack-2021, by team **PilluzyM**.
-
 Small business owners often get exploited by moneylenders when borrowing money. High and unfair rates of interest, middlemen, and a process where the entire power lies in the hands of the lender leaves the borrowers vulnerable to exploitation. The entire process is very slow, and requires a lot of manual work.
 
 We propose a solution to this problem through our DApp Decentralised Financial Peer to Peer Lender based on blockchain technology built on ethereum.
