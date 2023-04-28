@@ -10,7 +10,7 @@
   </p>
 </p>
 <p align ="center">
-<img src="https://i.ibb.co/z45CJfm/reva.png" alt="reva" border="0">
+<img src="https://i.ibb.co/hdQK7VB/reva.png" alt="reva" border="0">
 </p>
 <br />
 
@@ -136,13 +136,6 @@ Screenshots of our DApp are added to [this link](https://photos.app.goo.gl/rM9hR
 # Team
 
 - #### Team Members
-    - [Kshitij Ayush](https://github.com/kshitij-404)
     - [Vipul Singh](https://github.com/vipulsingh21)
     - [Omkar Singh Raghav](https://github.com/Omkar9027)
-    - [Shreshth Goyal](https://github.com/shreshthgoyal)
-    - [Rishabh Kumar](https://github.com/rish78)
-   - [Mounica Sruthi](https://github.com/mounicasruthi)
-# 
 
-[contributors-shield]: https://img.shields.io/github/contributors/kshitij-404/DeFi-P2P-Lender.svg?style=for-the-badge
-[contributors-url]: https://github.com/kshitij-404/DeFi-P2P-Lender
