@@ -1,6 +1,6 @@
 # LoanChain
 Decentralized loan management system using blockchain technology
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors](https://img.shields.io/github/contributors/<vipulsingh21>/<Loanchain>)](https://github.com/<omkar9027>/<LoanChain>/graphs/contributors)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
