@@ -1,10 +1,9 @@
 # LoanChain
-Decentralized loan management system using blockchain technology
-[![Contributors](https://img.shields.io/github/contributors/<vipulsingh21>/<Loanchain>)](https://github.com/<omkar9027>/<LoanChain>/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/<vipulsingh21>/<Loanchain>)](https://github.com/<Omkar9027>/<LoanChain>/graphs/contributors)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">DeFi-P2P-Lender</h1>
+  <h1 align="center">LoanChain</h1>
   <p align="center">
   Connecting people with their money.
    <br />
@@ -27,9 +26,6 @@ Decentralized loan management system using blockchain technology
       </li>
       <li>
       <a href="#screenshots">Screenshots</a>
-      </li>
-      <li>
-         <a href="#video">Demonstration Video</a>
       </li>
     <li><a href="#features">Features</a>
     </li>
@@ -73,12 +69,6 @@ We propose a solution to this problem through our DApp Decentralised Financial P
 
 Screenshots of our DApp are added to [this link](https://photos.app.goo.gl/rM9hR66io1JGBUfEA).
 
-<div id="video" />
-
-# Demonstration Video
-
-Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
-
 <div id="features" />
 
 <!-- GETTING STARTED -->
@@ -116,7 +106,7 @@ Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
 1. Fork this repository.
 2. Clone the repository
    ```sh
-    git clone https://github.com/kshitij-404/DeFi-P2P-Lender.git
+    git clone https://github.com/vipulsingh21/LoanChain.git
     ```
 3. Open the folder in which you cloned the repository.
 4. Open Ganache to run your local blockchain.
@@ -129,7 +119,6 @@ Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
 6. Update your config.js present in frontend directory using abi and address present in build files.
 7. Run on your local host and connect your wallet with metamask to perfrom the transactions.
 
-> Star this repository ✨ or send us some ethers at 0x08C5374DfB9Df1A5D42C76a00AcA277CF98ABe50
 
 <div id="next" />
 
@@ -146,10 +135,10 @@ Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
 
 # Team
 
-Team Name - **PilluzyM**
-
 - #### Team Members
     - [Kshitij Ayush](https://github.com/kshitij-404)
+    - [Vipul Singh](https://github.com/vipulsingh21)
+    - [Omkar Singh Raghav](https://github.com/Omkar9027)
     - [Shreshth Goyal](https://github.com/shreshthgoyal)
     - [Rishabh Kumar](https://github.com/rish78)
    - [Mounica Sruthi](https://github.com/mounicasruthi)
